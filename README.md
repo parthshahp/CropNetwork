@@ -1,7 +1,7 @@
 # CropNetwork
 
-A farming simulator built with a small team (5) for my CS2340 (Software Engineering) course.  
-This project placed #1 in the class out of 101.
+A farming simulator built with a small team (5) for my CS2340 (Objects and Design) course.  
+This project placed #1 in the class out of 101 projects submitted.
 
 👇🏻 For a demo of this project, click the link below  
 https://youtu.be/DrZ9oa9w-xI
@@ -14,14 +14,9 @@ https://youtu.be/DrZ9oa9w-xI
 * Creating backend functions for front end interactions: harvesting, watering, planting, etc..
 * Initializing UI screens based on objects passed between screens
 
-## How to run...
-
-Instructions coming soon...  
 
 ### Credits:
-I couldn't have built this without my amazing team:  
 Harry (Sungeun) Bae  
 Selena Do  
 Luke Kim  
-Parth Shah  
-❤️
+Calvin Owens
