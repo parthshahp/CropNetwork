@@ -16,6 +16,7 @@ https://youtu.be/DrZ9oa9w-xI
 
 
 ### Credits:
+Thank you to my team members!:
 Harry (Sungeun) Bae  
 Selena Do  
 Luke Kim  
